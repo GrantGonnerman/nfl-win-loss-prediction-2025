@@ -9,7 +9,7 @@ This project builds machine learning models to predict NFL game winners (Win/Los
 Accurate NFL outcome prediction has significant applications in sports betting, fantasy sports, coaching decisions, and sports media analytics. This project demonstrates practical application of predictive analytics in sports.
 
 ## 🗂️ Dataset
-- **Source**: Historical NFL game and team statistics (aggregated from public sources / S3)
+- **Source**: Historical NFL game and team statistics ([Yahoo Sports](https://sports.yahoo.com/nfl/stats/weekly))
 - **Target**: Binary classification (`Win` / `Loss`) for each team in a matchup
 - **Features**: Offensive/defensive ratings, yards per game, turnover differentials, home/away advantage, recent form, strength of schedule, and many engineered features.
 
